@@ -25,4 +25,4 @@ Github: https://github.com/daisy.le0203
 <br>
 or
 <br>
-Email: daisy.le0203@gmail.co
+Email: daisy.le0203@gmail.com
